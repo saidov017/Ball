@@ -20,6 +20,6 @@ public class Ball {
 
 
     public String toString() {
-        return "Ball @ (" + getX() + ", " + getY() + ")";
+        return "Ball  (" + getX() + ", " + getY() + ")";
     }
 }
