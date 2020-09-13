@@ -18,7 +18,6 @@ public class Ball {
         setXY(getX()+x, getY()+y);
     }
 
-
     public String toString() {
         return "Ball  (" + getX() + ", " + getY() + ")";
     }
